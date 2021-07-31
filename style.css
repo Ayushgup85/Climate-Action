@@ -1,0 +1,36 @@
+body{
+    background-color: lightgreen;
+}
+.text{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+p.paragraph{
+    font-weight: bold;
+    font-size: 25px;
+}
+a{
+    
+}
+.heading2{
+    color: white;
+    display: flex;
+    text-decoration: underline;
+    margin-top: 30px;
+    margin-left:50px ;
+    font-weight: bold;
+}
+hr.line{
+ 
+    border-top: 5px solid black;
+}
+.image{
+    margin-left:50px ;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
