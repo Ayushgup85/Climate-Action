@@ -5,3 +5,4 @@ Climate Change
 As the climate is changing very quickly.It is our duty to make people aware about the changes happening in the climate due to the some actions taken by us.
 
 # What does this website do
+On this website user can get all the info regarding the climate change.
