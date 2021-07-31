@@ -1,5 +1,5 @@
 body{
-    background-color: lightgreen;
+    background-color: teal;
 }
 .text{
     color: white;
@@ -15,7 +15,7 @@ p.paragraph{
     margin-left: 25px;
 }
 a:link {
-    color: red;
+    color: goldenrod;
   }
   a:link {
     text-decoration: none;
